@@ -9,9 +9,10 @@ Data Sources: https://www.citibikenyc.com/system-data
 
 
 ## Results:
+Please see the below link for the visualizations for description of results for each visualization
+[link to dashboard](LINK GOES HERE "link to dashboard")
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
-
+## Summary:
+Citibike data was first downloaded from the NYC citibike program website. Data was then passed into Jupyter notebook for inspection and data manipulation. Cleaned date was later imported to Tableau to create visualization to show the following:
+1. the total 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
