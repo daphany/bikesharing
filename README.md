@@ -10,7 +10,7 @@ Analysis is done on New York citibike sharing to determine the viability of brin
 
 ## Results:
 Please see the below link for the visualizations for description of results for each visualization
-[link to dashboard](LINK GOES HERE "link to dashboard")
+https://public.tableau.com/profile/daphany.wang#!/vizhome/Module14ChallengeFinal/Story1?publish=yes
 
 ## Summary:
 Citibike data was first downloaded from the NYC citibike program website. Data was then passed into Jupyter notebook for inspection and data manipulation. Cleaned date was later imported to Tableau to create visualization to show the following:
